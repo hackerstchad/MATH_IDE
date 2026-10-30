@@ -1,4 +1,8 @@
-# 🧮 Environnement de Développement Mathématique (MATH IDE) — Guide Complet Avancé
+#  Environnement de Développement Mathématique (MATH IDE) — Guide Complet Avancé
+
+
+<img width="1280" height="720" alt="maxresdefault" src="https://github.com/user-attachments/assets/103a2a44-ceb5-4774-a77e-2c3574560b71" />
+
 
 > **Auteur :** `hackes_tchad`  
 > **Version :** 1.0 — Édition Avancée  
